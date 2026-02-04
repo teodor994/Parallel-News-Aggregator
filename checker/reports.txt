@@ -1,0 +1,12 @@
+--- ./output/test_1/reports.txt	2025-11-22 21:26:47
++++ ./solution_output/test_1/test_par_2_run1/reports.txt	2025-12-08 22:59:02
+@@ -1,7 +1,7 @@
+-duplicates_found - 1175
++duplicates_found - 963
+ unique_articles - 16571
+ best_author - VNExplorer 326
+ top_language - english 10112
+-top_category - Human_Interest 6422
++top_category - Human_Interest 6425
+ most_recent_article - 2025-08-14T09:13:43Z https://icma.az/ru/news/apple-hochet-prevratit-siri-v-skrepysha-iz-windows-972335
+ top_keyword_en - one 4475
